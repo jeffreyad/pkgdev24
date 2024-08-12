@@ -1,0 +1,10 @@
+pandoc: 3.1.11
+pkgdown: 2.1.0
+pkgdown_sha: ~
+articles:
+  Get_Started: Get_Started.html
+  articles/Make_New: Make_New.html
+last_built: 2024-08-12T22:02Z
+urls:
+  reference: https://jeffreyad.github.io/pkgdev24/reference
+  article: https://jeffreyad.github.io/pkgdev24/articles
