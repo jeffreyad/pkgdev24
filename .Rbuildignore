@@ -1,0 +1,10 @@
+^pkgdev24\.Rproj$
+^\.Rproj\.user$
+^LICENSE\.md$
+^README\.Rmd$
+^vignettes/articles$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
+^data-raw$
+^\.github$
